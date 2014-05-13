@@ -1,0 +1,33 @@
+newmtl blinn23SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.59 0.59 0.59
+Ns 0.06
+newmtl blinn25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalTex.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl blinn26SG
+illum 4
+Kd 0.71 0.15 0.15
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.53 0.53 0.53
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
