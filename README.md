@@ -5,6 +5,12 @@ The ARVisualizer is an Augmented Reality program written in Processing that disp
 on top of fiducial markers that it picks up via the camera. The user can affect the 
 object that's displayed using QR codes.
 
+Team : 
+
+Beverly Wu
+James Phillips
+Maurice Shalam
+
 Markers
 ------- 
 
