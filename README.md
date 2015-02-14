@@ -22,6 +22,8 @@ one for shapes. The shape QR codes can be used to change the shape that's being 
 The color QR codes work with the Cube and Sphere shapes, letting the user play with their
 colors.
 
+You will need to print out the Fiducial Marker and any QR Codes before using the Visualizer.
+
 Using The Visualizer
 --------------------
 
